@@ -12,7 +12,7 @@
         public static readonly Dungeon[] MiniDungeons =
         {
             new Dungeon("GTG", false, false, true, false, false), new Dungeon("Gerudo", false, false, true, false, false),
-            new Dungeon("Well", true, true, true, false), new Dungeon("Ganon", false, false)
+            new Dungeon("Well", true, true, true, false, false), new Dungeon("Ganon", false, false, true, true, false)
         };
     }
 }
