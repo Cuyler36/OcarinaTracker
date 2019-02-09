@@ -1,0 +1,10 @@
+﻿<Window x:Class="OcarinaTracker.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OcarinaTracker.WPF"
+        mc:Ignorable="d"
+        Title="Ocarina Tracker" Width="558" Height="581" UseLayoutRounding="True" ResizeMode="CanMinimize">
+    <Grid x:Name="MainGrid" Background="#4A4D55"/>
+</Window>
